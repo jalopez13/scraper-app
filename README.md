@@ -1,5 +1,9 @@
 # Usage
 
+## Install dependencies
+
+- Run: yarn install
+
 ## In Terminal Run
 
 - getAmazonProducts.js - run: node ./getAmazonProducts.js
